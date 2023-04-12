@@ -8,6 +8,11 @@ h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
+  h6 {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
 a { 
     color: darkred;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -39,4 +44,11 @@ article {
   * {
     box-sizing: border-box;
   }
+
+ul {
+    list-style-type:none;
+}
   
+li {
+    padding-bottom: 16px;
+}
